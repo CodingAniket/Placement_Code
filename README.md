@@ -8,7 +8,7 @@ Welcome to my repository dedicated to placement preparation! This space houses m
 - **Mock Tests & Contests/**: Timed practice problem solutions
 
 ## 🛠️ Tech Stack
-- **Languages:** C++, Python, Java
+- **Languages:** Java
 - **Platform Focus:** LeetCode, HackerRank, GeeksforGeeks
 
 ---
